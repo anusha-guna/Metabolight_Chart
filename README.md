@@ -13,4 +13,6 @@ increment = 10.8014+1.2134 / 65536<br>
 The ‘data’ key in JSON is the yaxis (Intensity). <br>
 
 I created a line plot of x-axis, y-axis with x-label and y-label (“ppm” and “Intensity”) respectively.<br>
-The chart is rendered using "R" language.
+The chart is rendered using "R" language.<br>
+Instead of loading data from website, i ve downloaded the json and give the path as input <br>
+The final chart will be downloaded as png. 
